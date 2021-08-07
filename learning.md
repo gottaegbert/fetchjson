@@ -20,8 +20,7 @@ Todo :  {- -  -}
 1. types are used by the typescript compiler to analyze our code for errors
 2. types allow other engineers to understand what values are flowing around our codebase
 
-
-## Where do we use types  
+## Where do we use types
 
 Everywhere actually
 
@@ -30,3 +29,5 @@ Everywhere actually
 annotations: we tell typescript what the type is
 
 inference: typescript gusses the type
+
+![note](./assets/note.png)
