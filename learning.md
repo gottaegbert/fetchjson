@@ -31,3 +31,6 @@ annotations: we tell typescript what the type is
 inference: typescript gusses the type
 
 ![note](./assets/note.png)
+
+
+* [ ] typescript 257
